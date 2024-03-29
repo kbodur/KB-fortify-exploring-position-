@@ -3,6 +3,12 @@
 ## Task Overview
 
 Your task is to locate a form from the resources provided below. After identifying a suitable form, you are to design a similar form yourself. This design process involves both creating the form's frontend only. 
+
+<br/>
+<p align="center">
+    <img width="40%" src="/C468EA02-273F-49A7-A598-F27238A6B376.jpeg">
+</p>
+<br/>
 <br/>
 <p align="center">
     <img width="40%" src="/33989C2B-4531-481A-A9A2-EFE677BDF01E.jpeg">
@@ -13,11 +19,7 @@ Your task is to locate a form from the resources provided below. After identifyi
     <img width="40%" src="/6B182640-7047-45FA-A9AC-45BB4094A3FB.jpeg">
 </p>
 <br/>
-<br/>
-<p align="center">
-    <img width="40%" src="/C468EA02-273F-49A7-A598-F27238A6B376.jpeg">
-</p>
-<br/>
+
 <br/>
 <p align="center">
     <img width="40%" src="/E7DA118D-CD66-45D6-AD44-38583D604B98.jpeg">
