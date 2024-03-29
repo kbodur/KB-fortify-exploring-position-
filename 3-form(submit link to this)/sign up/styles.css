@@ -78,7 +78,7 @@ body {
   height: 45px;
   position: absolute;
   left: 55%;
-  top: 71.5%;
+  margin-top: -75px;
   background: -webkit-linear-gradient(right, #56d8e4, #9f01ea, #56d8e4, #9f01ea);
   transition: all 0.4s;
   text-decoration: none;
