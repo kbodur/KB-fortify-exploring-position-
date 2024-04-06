@@ -56,4 +56,4 @@ This will allow others to access and view your form directly.
 
 - [Form Design Resource](https://www.sliderrevolution.com/resources/css-forms/)
 
-
+[Demo](https://kbodur.github.io/KB-fortify-exploring-position-/)
